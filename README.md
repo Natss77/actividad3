@@ -52,19 +52,19 @@ El menú Edit contiene herramientas para modificar el código y el texto. Permit
 
 El menú Selection permite seleccionar texto y trabajar con líneas de código. Incluye opciones para seleccionar todo el contenido, ampliar o reducir una selección y mover o duplicar líneas. Estas funciones facilitan la organización y edición del código.
 
-## 1.8 Menu view
+## 1.9 Menu view
 
 ![alt text](<docs/capturas/Captura de pantalla 2026-10-16 095416-1.png>)
 
 El menú View permite acceder a diferentes paneles y organizar la interfaz de Visual Studio Code. Desde aquí puedo mostrar la terminal integrada, el explorador de archivos y otras herramientas que facilitan el desarrollo y la revisión del proyecto.
 
-## 1.9 Ventanas de herramientas: Depurador
+## 1.10 Ventanas de herramientas: Depurador
 
 ![alt text](<docs/capturas/Captura de pantalla 2026-10-16 100957-1.png>)
 
 El depurador de Visual Studio Code permite ejecutar el programa paso a paso para revisar su funcionamiento y encontrar errores. En mi proyecto coloqué un punto de interrupción en el archivo main.py y observé cómo la ejecución se detenía en la línea seleccionada. También exploré el panel Variables para consultar la información disponible durante la ejecución.
 
-## 1.10 Explorar la consola
+## 2 Explorar la consola
 
 ![alt text](<docs/capturas/Captura de pantalla 2026-10-16 101619.png>)
 
