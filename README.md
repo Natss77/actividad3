@@ -1,6 +1,6 @@
 ## Exploracion de Componentes del IDE, Personalizacion y Creacion de un Proyecto Estructurado
 
-## 1. Exploracion de los proyectos de un IDE**
+## 1. Exploracion de los proyectos de un IDE
 
 *Introduccion*
 
